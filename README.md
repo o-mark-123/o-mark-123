@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **o-mark-123/o-mark-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi，I'm o-mark-123.AI Full-stack Engineer
-I'm currently Focus on Agentic Infra
+👋I'm currently Focus on Agentic Infra

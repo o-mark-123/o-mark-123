@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-第一个主页
+Hi，I'm o-mark-123.AI Full-stack Engineer
+I'm currently Focus on Agentic Infra
